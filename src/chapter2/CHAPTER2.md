@@ -39,11 +39,11 @@ Git is a version control system that you will want to get familiar with. In this
 
 Run `git status` in your terminal to see which files have been changed and need to be committed.
 
-Run `git add basics.py` to stage your change. Staging a change is preparing it to be saved in your Git history.
+Run `git add src/chapter2/basics.py` to stage your change. Staging a change is preparing it to be saved in your Git history.
 
-Run `git commit`. In the window that pops up, name your commit something descriptive, such as "Added variable definitions and completed basics.py exercises".
+Run `git commit`. In the window that pops up, name your commit something descriptive, such as "Added variable definitions and completed chapter 2 exercises". Then close the commit window.
 
-Run `git push` to upload your committed changes to your remote repository on GitHub.
+Run `git push` to upload your committed changes to your forked repository on GitHub.
 
 ## Done ✅
 
