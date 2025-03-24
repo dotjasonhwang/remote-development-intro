@@ -16,7 +16,7 @@
 # favorite_number = 
 
 # TODO: Assign another number to the `another_number` VARIABLE.
-# another_number = 
+# another_number = 5
 
 # TODO Uncomment the line below.
 # print(favorite_number + another_number)
