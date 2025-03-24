@@ -13,7 +13,7 @@
 # Notice how we give the path of the `basics.py` file to run. If in your TERMINAL you are running from a different location, we would need to provide a different path.
 
 # TODO: Assign your favorite number to the `favorite_number` VARIABLE. This time, you don't need to use quotes because numbers are not text.
-# favorite_number = 
+# favorite_number = 5
 
 # TODO: Assign another number to the `another_number` VARIABLE.
 # another_number = 5
